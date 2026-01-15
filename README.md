@@ -65,9 +65,10 @@ https://github.com/ifioklee/Digital-Marketing-Spending-Analysis-Dashboard-Februa
 Interactive Power BI file:  
 https://github.com/ifioklee/Digital-Marketing-Spending-Analysis-Dashboard-February-2021/blob/main/Digital%20Marketing%20Spending%20Analysis%20Dashboard%20February%202021.pbix
 
-###  – DAX Measures
+### Digital Marketing Spending – DAX Measures
 
 File cotaining all DAX formulas: 
+https://github.com/ifioklee/Digital-Marketing-Spending-Analysis-Dashboard-February-2021/blob/main/Digital%20Marketing%20Spending%20-%20DAX%20Measures
 
 ---
 
