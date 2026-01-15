@@ -150,7 +150,19 @@ Transformations applied:
 
 ## Results & Insights
 
+A total of 289 campaigns were analysed, each grouped into 4 different categories.
 
+These campaigns run in the month of February 2021 saw a total of 2 billion impressions, 3 million clicks, 66,000 leads generated and 8,043 orders confirmed.
+
+₹30.57 Million was spent on marketing which drove in a revenue of ₹42.89 Million.
+
+The campaign YouTube_blogger  stands out as the campaign with the highest revenue by campaign, generating a total of ₹15,311,433. Facebook_lal brought the least revenue by campaign, generating only ₹300,233.
+
+Influencer campaign category brought in 49.24% of the total revenue while campaigns within the search category brought in the least revenue generating just 8.64% of the total revenue.
+
+The overall Return on Marketing Investment is 40.30%, with click through rate of 0.19%, cost per click of ₹10.28, cost per lead of ₹466.61, customer acquisition cost of  ₹3,801, Average customer order value of ₹8,043.
+
+The YouTube_blogger campaign is the campaign with the highest return on marketing investment while Facebook_lal campaign is the least return on marketing investment.
 
 ---
 
