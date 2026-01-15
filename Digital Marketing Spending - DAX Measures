@@ -1,0 +1,56 @@
+# Marketing Metrics (DAX)
+
+```DAX
+AOV =
+DIVIDE(
+    SUM('Marketing'[revenue]),
+    SUM('Marketing'[orders])
+)
+
+CAC =
+DIVIDE(
+    SUM('Marketing'[mark_spent]),
+    SUM('Marketing'[orders])
+)
+
+conversion 1 =
+DIVIDE(
+    SUM('Marketing'[leads]),
+    SUM('Marketing'[clicks])
+)
+
+conversion 2 =
+DIVIDE(
+    SUM('Marketing'[orders]),
+    SUM('Marketing'[leads])
+)
+
+CPC =
+DIVIDE(
+    SUM('Marketing'[mark_spent]),
+    SUM('Marketing'[clicks])
+)
+
+CPL =
+DIVIDE(
+    SUM('Marketing'[mark_spent]),
+    SUM('Marketing'[leads])
+)
+
+CTR =
+DIVIDE(
+    SUM('Marketing'[clicks]),
+    SUM('Marketing'[impressions])
+)
+
+number of campaign =
+COUNT(Marketing[campaign_name])
+
+number of campaign category =
+DISTINCTCOUNT(Marketing[category])
+
+Overall ROMI =
+DIVIDE(
+    SUM(Marketing[revenue]) - SUM('Marketing'[mark_spent]),
+    SUM('Marketing'[mark_spent])
+)
